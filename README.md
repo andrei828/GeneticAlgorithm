@@ -5,5 +5,5 @@ This python script uses a genetic algorithm to find the maximum value of a **qua
 
 > **Note:**  The quadratic equation, number of chromosomes/generations and crossover/mutation probabilities can be updated from the input file.
 
-###The script displays a plot with the evolution of the maximum value through the generations
-![Demo](https://github.com/andrei828/GeneticAlgorithm/blob/master/plot.png)
+### The script displays a plot with the evolution of the maximum value through the generations
+![Example](https://github.com/andrei828/GeneticAlgorithm/blob/master/plot.png)
